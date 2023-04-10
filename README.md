@@ -1,9 +1,9 @@
 # Habit_Tracker
 
-Habit tracker project is a web application designed to help users track their daily habits and monitor their progress over time. With the use of Node.js, EJS, Mongoose, and Express, this project provides a user-friendly interface that allows users to create a list of habits they want to track and update them regularly.
+A habit tracker project is a web application designed to help users track their daily habits and monitor their progress over time. With the use of Node.js, EJS, Mongoose, and Express, this project provides a user-friendly interface that allows users to create a list of habits they want to track and update them regularly.
 
 ## Registration Page
-A habit ![Screenshot (8)](https://user-images.githubusercontent.com/58897751/230894539-2aa3582a-a7a3-4946-ac8c-32442a6aa6d3.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/58897751/230894539-2aa3582a-a7a3-4946-ac8c-32442a6aa6d3.png)
 
 ## Home Page
 ![Screenshot (9)](https://user-images.githubusercontent.com/58897751/230894645-6b970418-b33b-4039-a485-4ad1335aae36.png)
