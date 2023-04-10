@@ -30,9 +30,8 @@ A habit ![Screenshot (8)](https://user-images.githubusercontent.com/58897751/230
 
 ## Installation
 
-##### Clone the latest Repository
+##### Clone the project and pull it
 
-`git clone https://github.com/rahulsups/habit-tracker.git`
 
 ##### Into the project directory
 
